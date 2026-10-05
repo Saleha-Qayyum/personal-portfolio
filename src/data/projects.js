@@ -17,7 +17,7 @@ export const projects = [
     title: 'Responsive Real Estate Website',
     description:
       'A fully responsive real estate listing platform with property cards, filter UI, and a clean layout optimised for all screen sizes.',
-    tags: ['HTML', 'CSS', 'JavaScript'],
+    tags: ['HTML', 'CSS',],
     githubUrl: 'https://github.com/Saleha-Qayyum/Responsive-Real-Estate-Website',
     liveUrl: null,
     screenshot: '/Screenshot 2026-10-05 085353.jpg',
@@ -37,7 +37,7 @@ export const projects = [
     title: 'Mail Website',
     description:
       'A clean email-client-inspired UI with inbox, compose, and navigation views — showcasing layout and component design skills.',
-    tags: ['HTML', 'CSS', 'JavaScript'],
+    tags: ['HTML', 'CSS',],
     githubUrl: 'https://github.com/Saleha-Qayyum/MAIL-WEBSITE',
     liveUrl: null,
     screenshot: '/Screenshot 2026-10-05 085308.jpg',
@@ -47,7 +47,7 @@ export const projects = [
     title: 'Creative Agency Website',
     description:
       'A bold, animated creative agency landing page with dynamic hero section, smooth animations, and modern layout composition.',
-    tags: ['HTML', 'CSS', 'JavaScript'],
+    tags: ['HTML', 'CSS',],
     githubUrl: 'https://github.com/Saleha-Qayyum',
     liveUrl: null,
     screenshot: '/Screenshot 2026-10-05 085434.jpg',
